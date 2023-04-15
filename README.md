@@ -1,3 +1,19 @@
+#Final Submit
+Usename:skthtu
+Contact:skthtu@eis.hokudai.ac.jp
+
+##Model Weight:
+Link: https://drive.google.com/file/d/1YBt8hvtetex4B_fdcz0ZMQSeGEI3U7Ad/view?usp=sharing 
+
+##Test
+Replace [CHECKPOINT PATH] with the path to the model weight file.
+```bash
+bash tools/dist_test.sh configs/mva2023_skurita/deformable_detr_twostage_refine_r50_16x2_50e_coco_inference.py 
+[CHECKPOINT PATH]\
+2 --format-only --eval-options jsonfile_prefix=results
+```
+
+
 # MVA2023 - Small Object Detection Challenge for Spotting Birds
 
 <img src="http://www.mva-org.jp/mva2023/data/uploads/bird/samples-1.pdf.jpg" alt="mva-sod4b-sample" title="mva2023-ChallengeOnSmallObjectDetection4SpottingBirds-sample">
