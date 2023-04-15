@@ -1,12 +1,13 @@
-#Final Submit
+# Final Submit
 Usename:skthtu
 Contact:skthtu@eis.hokudai.ac.jp
 
-##Model Weight:
+## Model Weight:
 Link: https://drive.google.com/file/d/1YBt8hvtetex4B_fdcz0ZMQSeGEI3U7Ad/view?usp=sharing 
 
-##Test
+## Test
 Replace [CHECKPOINT PATH] with the path to the model weight file.
+
 ```bash
 bash tools/dist_test.sh configs/mva2023_skurita/deformable_detr_twostage_refine_r50_16x2_50e_coco_inference.py 
 [CHECKPOINT PATH]\
