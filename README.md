@@ -22,7 +22,7 @@ bash tools/dist_test.sh configs/mva2023_skurita/deformable_detr_twostage_refine_
 ```
 
 
-<span style="color: red">The following is the same as the official baseline README.</span>
+<font color="blue">The following is the same as the official baseline README.</font>
 ---
 # MVA2023 - Small Object Detection Challenge for Spotting Birds
 
