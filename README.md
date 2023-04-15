@@ -1,6 +1,6 @@
 # Final Submit
 ### Usename: skthtu  
-### Contact: skthtu@eis.hokudai.ac.jp
+### Contact: skthtu [at] eis.hokudai.ac.jp (Please replace [at] with @)
 
 ## Model Weight:
 Link: https://drive.google.com/file/d/1YBt8hvtetex4B_fdcz0ZMQSeGEI3U7Ad/view?usp=sharing 
