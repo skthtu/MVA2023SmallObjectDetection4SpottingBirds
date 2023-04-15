@@ -17,12 +17,12 @@ export MKL_NUM_THREADS=16
 GPU_NUM=2
 
 bash tools/dist_test.sh configs/mva2023_skurita/deformable_detr_twostage_refine_r50_16x2_50e_coco_inference.py 
-[CHECKPOINT PATH]\
-2 --format-only --eval-options jsonfile_prefix=results
+[CHECKPOINT PATH] 2 --format-only --eval-options jsonfile_prefix=results
 ```
 
 
-<font color="blue">The following is the same as the official baseline README.</font>
+<span style="color:red">The following is the same as the official baseline README.</span>
+
 ---
 # MVA2023 - Small Object Detection Challenge for Spotting Birds
 
