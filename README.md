@@ -1,4 +1,4 @@
-### The model included in this repository ranked 6th in the development category at the '[Small Object Detection Challenge for Spotting Birds](https://www.mva-org.jp/mva2023/index.php?id=challenge)', with 221 participants, dthe 18th International Conference on Machine Vision Applications, 2023.🎉
+### The model included in this repository ranked 6th in the development category at the '[Small Object Detection Challenge for Spotting Birds](https://www.mva-org.jp/mva2023/index.php?id=challenge)', with 221 participants, the 18th International Conference on Machine Vision Applications, 2023.🎉
 
 ---
 
