@@ -4,10 +4,10 @@
 
 # Final Submit
 ### Username: skthtu  
-### Contact: skthtu [at] eis.hokudai.ac.jp (Please replace [at] with @)
+### Contact: [linkedin](https://jp.linkedin.com/in/skurita) (please send me a direct message.)
 
 ## Model Weight:
-Link: https://drive.google.com/file/d/1YBt8hvtetex4B_fdcz0ZMQSeGEI3U7Ad/view?usp=sharing 
+Link: https://drive.google.com/drive/folders/1e7-Oi6pPfC9ewlPTswq_81KVC-jm6amt?usp=drive_link
 
 ## Test
 Replace [CHECKPOINT PATH] with the path to the model weight file.
